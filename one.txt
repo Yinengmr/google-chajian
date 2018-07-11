@@ -1,7 +1,7 @@
 google 瀏覽器插件清單
 常用
-AdBlock
-Proxy SwitchyOmega
+AdBlock               ##屏蔽广告
+Proxy SwitchyOmega    ##网络代理
 
 开源代码
 Awesome Autocomplete for GitHub
